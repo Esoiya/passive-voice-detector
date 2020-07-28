@@ -1,0 +1,11 @@
+The purpose of this project was to create visibility on how documentation is being used within the firm. There is a lot of documentation in the firm and some documentation pages are not easy to locate. During my first couple months, I relied on the help of other developers and read documentation to understand how to work as a developer in the Morgan Stanley environment.
+
+The burger was eaten by the child.
+News reports are written by reporters.
+Reporters write news reports.
+New workers were hired by the company last year.
+The company hired new workers last year.
+The letters must be delivered.
+She must deliver the letters.
+The letters have been delivered.
+They delivered the letters.
